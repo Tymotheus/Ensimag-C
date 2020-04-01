@@ -1,3 +1,9 @@
+## Description
+Below is the description of a task From Ensimag University C classes.
+The idea is to create a program, using Lee Algorithm, to find a shortest path in a given maze.
+Programme opens and reads files containing mazes in a certain formats.
+solvemaze.c contains main function, lee.c lee algorithm, and maze.c and mazeio.c operations on mazes and files.
+
 ## Présentation
 
 Le but de ce problème est de trouver le chemin le plus court entre 2 points dans
